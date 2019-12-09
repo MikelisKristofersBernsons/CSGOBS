@@ -19,6 +19,24 @@ body {
     margin-top: -250px;
 }
 
+h2 {
+    color: #36c2d9;
+    text-align: center;
+    font-size: 150%;
+}
+
+
+main>p {
+    text-align: justify;
+}
+
+.row {
+    align-content: center;
+}
+
+.container-fluid {
+    padding-top: 50px;
+}
 
 p {
     color:white;
@@ -31,6 +49,34 @@ footer {
     padding-top: 2rem;
 }
 
+
+
+            .diy-box {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 25px;
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+            .db {
+                width: 300px;
+                height: 240px;
+                margin: 5px;
+                line-height: 35px;
+                font-size: 20px;
+                background-color: #374345;
+            }
+
+            .txt-top {
+                text-align: center;
+                height: 40px;
+                width: 300px;
+            }
+
+            .vid-box {
+                height: 200px;
+            }
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
