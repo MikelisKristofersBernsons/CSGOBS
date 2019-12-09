@@ -1,2 +1,2 @@
-# CSGOBS
+# https://mikeliskristofersbernsons.github.io/CSGOBS/
  
